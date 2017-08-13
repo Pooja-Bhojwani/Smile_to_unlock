@@ -4,7 +4,7 @@ The aim is to design an intelligent system which detects the person we ask it to
 
 Datasets Used:
 	For Face Detection   : http://vision.ucsd.edu/content/yale-face-database
-	For Emotion Detection: 
+	For Emotion Detection: http://www.consortium.ri.cmu.edu/ckagree/
 
 
 Links referred:
