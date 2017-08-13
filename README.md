@@ -4,6 +4,10 @@
 Just put the data in dataset folder and run -- 
 
 
-Prepare_model.py -- To generate model on the basis of your data
+Emotion_recognition_model.py -- To train the model on the basis of emotions dataset
 
-and then run webcam.py -- To run your webcam and predict the emotions
+Face_recognition_model.py -- To train the model on the basis of facial data
+
+and then run webcam.py -- To run your webcam, predict the emotions and get the person who can unlock the system wih her/his smile
+
+
